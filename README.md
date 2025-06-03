@@ -1,5 +1,5 @@
 Clinical-Survival-Prediction/
-│
+|
 ├── data/               # Input datasets or SQL extraction scripts
 ├── notebooks/          # Jupyter notebooks with analysis and modeling
 ├── models/             # Trained ML models (optional)
